@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc2b5012-cbce-4a87-99b2-59a0e2a5d97c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Tool\apache-maven-3.8.4\maven-repo" />
+        <option name="mavenHome" value="E:/Tool/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="E:\Tool\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CsGwqP8WCNo2qsURP9TErjRIko" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/Java/06SSM/01mybatis/软件/dtd文件/mybatis-3-mapper.dtd" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.TestDI">
+    <configuration name="TestDI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ioc.TestDI" />
+      <module name="chapter01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIoC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ioc.TestIoC" />
+      <module name="chapter01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDI" />
+        <item itemvalue="Application.TestIoC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc2b5012-cbce-4a87-99b2-59a0e2a5d97c" name="Default Changelist" comment="" />
+      <created>1659584119579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659584119579</updated>
+      <workItem from="1659584123415" duration="1860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="40" key="#Project_Structure" timestamp="1659584255887">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="249" y="40" key="#Project_Structure/0.40.1536.824@0.40.1536.824" timestamp="1659584255887" />
+    <state x="574" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1659584871566">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="574" y="156" key="#com.intellij.ide.util.MemberChooser/0.40.1536.824@0.40.1536.824" timestamp="1659584871566" />
+    <state width="1491" height="183" key="GridCell.Tab.0.bottom" timestamp="1659585995063">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1491" height="183" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1659585995063" />
+    <state width="1491" height="183" key="GridCell.Tab.0.center" timestamp="1659585995062">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1491" height="183" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1659585995062" />
+    <state width="1491" height="183" key="GridCell.Tab.0.left" timestamp="1659585995061">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1491" height="183" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1659585995061" />
+    <state width="1491" height="183" key="GridCell.Tab.0.right" timestamp="1659585995062">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1491" height="183" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1659585995062" />
+    <state x="449" y="134" key="spring file set editor" timestamp="1659584235596">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="449" y="134" key="spring file set editor/0.40.1536.824@0.40.1536.824" timestamp="1659584235596" />
+  </component>
+</project>
